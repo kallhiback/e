@@ -1,0 +1,70 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.app {
+    width: 500px;
+    height: 900px;
+    font-size: 26px;
+    gap: 50px;
+    flex-direction: column;
+    display: flex;
+}
+.class {
+    visibility: hidden;
+    display: none;
+}
+.one_app {
+    visibility: hidden;
+}
+.one_pp {
+    visibility: visible;
+}
+
+.two_app {
+    visibility: hidden;
+}
+
+.two_pp {
+    visibility: visible;
+}
+
+.thee_app {
+    visibility: hidden;
+}
+
+.thee_pp {
+    visibility: visible;
+}
+
+.for_app {
+    visibility: hidden;
+}
+
+.for_pp {
+    visibility: visible;
+}
+
+.five_app {
+    visibility: hidden;
+}
+
+.five_pp {
+    visibility: visible;
+}
+
+.six_app {
+    visibility: hidden;
+}
+
+.six_pp {
+    visibility: visible;
+}
